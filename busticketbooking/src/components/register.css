@@ -1,0 +1,67 @@
+.input-field-items {
+    width: 35%;
+}
+
+.input-field-item {
+    margin-bottom: 25px;
+}
+
+.btn-text {
+    background-color: #1e6fff;
+    border: unset;
+    padding: 10px 30px;
+    color: #fff;
+    margin-top: 20px;
+    width: 100%;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.container-header {
+    margin-bottom: 35px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.create-account {
+    margin-top: 25px;
+}
+
+.account-link {
+    color: #1e6fff;
+    margin-left: 6px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.account-link:hover {
+    text-decoration: underline;
+}
+
+.signup-left-portion {
+    width: 50%;
+}
+
+.signup-page-container {
+    display: flex;
+    height: 640px;
+}
+
+.signup-right-portion {
+    background-image: url("https://img.freepik.com/premium-photo/classic-bus-road_756748-1003.jpg");
+    width: 50%;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.signup-left-portion {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

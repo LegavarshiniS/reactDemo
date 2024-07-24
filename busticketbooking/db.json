@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Priyadharshini",
+      "username": "priya@gmail.com",
+      "password": "Priya@123",
+      "id": "priya@gmail.com"
+    },
+    {
+      "name": "LEGAVARSHINI S",
+      "username": "727822tucs104@skct.edu.in",
+      "password": "12345",
+      "id": "727822tucs104@skct.edu.in"
+    }
+  ]
+}

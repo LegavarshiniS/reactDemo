@@ -1,0 +1,67 @@
+.input-field-items {
+  width: 35%;
+}
+
+.input-field-item {
+  margin-bottom: 25px;
+}
+
+.btn-text {
+  background-color: #1e6fff;
+  border: unset;
+  padding: 10px 30px;
+  color: #fff;
+  margin-top: 20px;
+  width: 100%;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.container-header {
+  margin-bottom: 35px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.create-account {
+  margin-top: 25px;
+}
+
+.account-link {
+  color: #1e6fff;
+  margin-left: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.account-link:hover {
+  text-decoration: underline;
+}
+
+.login-left-portion {
+  width: 50%;
+}
+
+.login-page-container {
+  display: flex;
+  height: 640px;
+}
+
+.login-right-portion {
+  background-image: url("https://www.shutterstock.com/image-photo/bus-traveling-on-asphalt-road-600nw-1345741577.jpg");
+  width: 50%;
+  height: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.login-left-portion {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
